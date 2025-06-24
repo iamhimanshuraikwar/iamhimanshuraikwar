@@ -90,7 +90,7 @@
 ---
 
 <div align="center">
-  <i>"Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs</i>
+  <i>"My knowledge comes from experience for a reason." - Himanshu Raikwar</i>
 </div>
 
 <div align="center">
